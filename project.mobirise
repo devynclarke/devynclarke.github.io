@@ -180,7 +180,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/devyn2-1400x1371.png",
               "link": "",
@@ -189,10 +188,11 @@
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://www.youtube.com/watch?v=Rmt5BwZMx7M",
               "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
+              "autoplay": "on",
+              "loop": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
@@ -201,7 +201,7 @@
             }
           },
           "title": "Main title something like Yoga for good",
-          "text": "We can replace the photo with a youtube video about your ebook",
+          "text": "We can replace the video with a video about your ebook or a photo... fill this space with your mission",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
